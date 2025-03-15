@@ -26,5 +26,9 @@
   {
     "name": "NoSteam",
     "repo": "https://github.com/Rafacasari/DesktopMate-NoSteam"
+  },
+  {
+    "name": "HideFromTaskbar",
+    "repo": "https://github.com/20milliliter/DesktopMate-HideFromTaskbar"
   }
 ]
